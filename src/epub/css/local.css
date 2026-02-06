@@ -5,6 +5,11 @@ q{
 	font-style: italic;
 }
 
+q em,
+q i{
+	font-style: normal;
+}
+
 [epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
