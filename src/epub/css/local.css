@@ -158,17 +158,13 @@ tr.together td{
 	vertical-align: middle;
 }
 
+tr.together td:only-child,
 tr.together td + td{
 	border-left: 1px solid;
 }
 
 [epub|type~="z3998:drama"] .together td:last-child{
 	padding-left: .5em;
-}
-/* End drama */
-
-#chapter-25 table[epub|type~="z3998:drama"] tr:nth-of-type(19) span ~ span strong{
-	text-transform: uppercase;
 }
 
 @media(max-width: 400px){
@@ -197,9 +193,9 @@ tr.together td + td{
 		border: none;
 		padding: 0;
 	}
+}
+/* End drama */
 
-	/* Rows that are only stage direction get a top margin. */
-	[epub|type~="z3998:drama"] td:first-child:not([epub|type]) + td{
-		margin-top: 1.5em;
-	}
+#chapter-25 table[epub|type~="z3998:drama"] tr:nth-of-type(19) span ~ span strong{
+	text-transform: uppercase;
 }
