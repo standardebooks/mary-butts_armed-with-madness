@@ -41,6 +41,7 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-GB</dc:language>
+		<dc:source>https://www.fadedpage.com/showbook.php?pid=20251019</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006255770</dc:source>
 		<meta property="se:production-notes">Quotation marks are kept in the chapter 25 play section because its unusual structure would make it difficult to discern speakers otherwise.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
@@ -58,6 +59,16 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Al, Haines</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">John Routh</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">John, Routh</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Distributed Proofreaders Canada</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders Canada</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdpcanada.net/</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="sponsor">Matthew D. Skinta</dc:contributor>
 		<meta property="file-as" refines="#sponsor">Skinta, Matthew D.</meta>
 		<meta property="role" refines="#sponsor" scheme="marc:relators">spn</meta>
