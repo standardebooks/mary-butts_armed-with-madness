@@ -199,3 +199,15 @@ tr.together td + td{
 #chapter-25 table[epub|type~="z3998:drama"] tr:nth-of-type(19) span ~ span strong{
 	text-transform: uppercase;
 }
+
+blockquote{
+	font-style: italic;
+}
+
+blockquote i{
+	font-style: normal;
+}
+
+#chapter-27 blockquote{
+	font-style: normal;
+}
