@@ -10,6 +10,14 @@ q i{
 	font-style: normal;
 }
 
+.telegram{
+	font-variant: all-small-caps;
+}
+
+q.telegram{
+	font-style: normal;
+}
+
 [epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
