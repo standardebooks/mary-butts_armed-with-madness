@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/mary-butts/armed-with-madness</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-02-20T15:59:04Z</dc:date>
+		<meta property="dcterms:modified">2026-02-20T15:59:04Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,16 +36,18 @@
 		<meta id="collection-1" property="belongs-to-collection">Taverner</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A group of friends staying at a remote cottage discover what could be the Holy Grail in a nearby well.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Five friends are staying at a remote cottage in the Cornish countryside, where they’re joined by an American. While helping clean out a local well, the six discover an ancient cup buried within. This cup seems to have a long and mysterious history—could it even be the fabled Holy Grail? Investigating the cup’s identity soon ignites simmering tensions among the group of uneasy “friends” as their personalities, desires, fears, and hopes begin to clash.&lt;/p&gt;
+			&lt;p&gt;In this highly modernist novel, &lt;a href="https://standardebooks.org/ebooks/mary-butts"&gt;Mary Butts&lt;/a&gt; adapts the grail myth to early 20th century England, flavored with tinges of Greek mythology, psychoanalysis, and fable. The prose, heavy with allusion, is abstract, kaleidoscopic, and dreamlike, inviting comparison to &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf&lt;/a&gt;. Two of the main characters, the strong-willed Scylla and her brother Felix, are said to be stand-ins for Butts and her brother, who, like those two fictional bohemians, were down at heel scions of a formerly wealthy aristocratic bloodline.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Armed with Madness&lt;/i&gt; was highly regarded by its contemporaries, appearing as an edition illustrated by Jean Cocteau and inviting praise for Butts’ forward-reaching prose style from the likes of &lt;a href="https://standardebooks.org/ebooks/ford-madox-ford"&gt;Ford Madox Ford&lt;/a&gt; and Ezra Pound. Despite this, it has slipped into obscurity and remains frequently out of print.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20251019</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006255770</dc:source>
-		<meta property="se:production-notes">Italics are kept in most blockquotes as a matter of prose style. Quotation marks are kept in the chapter 25 play section because its unusual structure would make it difficult to discern speakers otherwise.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:production-notes">Italics are kept in most blockquotes as a matter of prose style. Quotation marks are kept in the chapter 25 play section because its unusual structure would make it difficult to discern speakers otherwise. In print, single quoted phrases are meant to be internal thoughts; these have been converted to italics.</meta>
+		<meta property="se:word-count">48534</meta>
+		<meta property="se:reading-ease.flesch">84.88</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Armed_with_Madness</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mary-butts_armed-with-madness</meta>
 		<dc:creator id="author">Mary Butts</dc:creator>
