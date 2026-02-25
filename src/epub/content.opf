@@ -62,10 +62,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr2006015094</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Al, Haines</meta>
+		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">John Routh</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">John, Routh</meta>
+		<meta property="file-as" refines="#transcriber-2">Routh, John</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders Canada</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders Canada</meta>
