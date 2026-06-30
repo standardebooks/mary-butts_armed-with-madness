@@ -1,0 +1,1 @@
+Italics are kept in most `<blockquote>` elements as a matter of prose style. Quotation marks are kept in the chapter 25 play section because its unusual structure would make it difficult to discern speakers otherwise. In print, single quoted phrases are meant to be internal thoughts; these have been converted to italics.
