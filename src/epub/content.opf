@@ -37,7 +37,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Taverner</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>A group of friends staying at a remote cottage discover what could be the Holy Grail in a nearby well.</dc:abstract>
+		<meta property="schema:abstract">A group of friends staying at a remote cottage discover what could be the Holy Grail in a nearby well.</meta>
 		<dc:description>
 			&lt;p&gt;Five friends are staying at a remote cottage in the Cornish countryside, where they’re joined by an American. While helping clean out a local well, the six discover an ancient cup buried within. This cup seems to have a long and mysterious history—could it even be the fabled Holy Grail? Investigating the cup’s identity soon ignites simmering tensions among the group of uneasy “friends” as their personalities, desires, fears, and hopes begin to clash.&lt;/p&gt;
 			&lt;p&gt;In this highly modernist novel, &lt;a href="https://standardebooks.org/ebooks/mary-butts"&gt;Mary Butts&lt;/a&gt; adapts the grail myth to early 20th century England, flavored with tinges of Greek mythology, psychoanalysis, and fable. The prose, heavy with allusion, is abstract, kaleidoscopic, and dreamlike, inviting comparison to &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf&lt;/a&gt;. Two of the main characters, the strong-willed Scylla and her brother Felix, are said to be stand-ins for Butts and her brother, who, like those two fictional bohemians, were down at heel scions of a formerly wealthy aristocratic bloodline.&lt;/p&gt;
